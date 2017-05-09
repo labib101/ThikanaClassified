@@ -11,5 +11,6 @@ namespace ThikanaClassified.DatabaseModels
         public DbSet<Authentication> Authentication { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<ItemDB> Items { get; set; }
+        public DbSet<ItemPicture> Images { get; set; }
     }
 }
