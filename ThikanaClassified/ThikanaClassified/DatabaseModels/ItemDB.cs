@@ -19,7 +19,7 @@ namespace ThikanaClassified.DatabaseModels
         public string ItemPrice { get; set; }
         public string IsPremium { get; set;}
         public string ItemLocation { get; set; }
-        public string PostedDate { get; set; }
+        public DateTime PostedDate { get; set; }
         public int Visited { get; set; }
         public List<ItemPicture> Images { get; set; }
 

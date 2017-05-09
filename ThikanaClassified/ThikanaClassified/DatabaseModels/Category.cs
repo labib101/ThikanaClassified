@@ -13,6 +13,6 @@ namespace ThikanaClassified.DatabaseModels
         public string CategoryName { get; set; }
         public string CategoryPicture { get; set; }
 
-        public List<ItemDB> ItemDB { get; set; }
+        //public List<ItemDB> ItemDB { get; set; }
     }
 }

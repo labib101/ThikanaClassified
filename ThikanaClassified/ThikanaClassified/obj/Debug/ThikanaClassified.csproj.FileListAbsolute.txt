@@ -33,3 +33,35 @@ D:\Labib Projects\src\ThikanaClassified\ThikanaClassified\bin\System.Web.WebPage
 D:\Labib Projects\src\ThikanaClassified\ThikanaClassified\obj\Debug\ThikanaClassified.dll
 D:\Labib Projects\src\ThikanaClassified\ThikanaClassified\obj\Debug\ThikanaClassified.pdb
 D:\Labib Projects\src\ThikanaClassified\ThikanaClassified\obj\Debug\ThikanaClassified.csprojResolveAssemblyReference.cache
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\obj\Debug\ThikanaClassified.csprojResolveAssemblyReference.cache
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\obj\Debug\ThikanaClassified.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\ThikanaClassified.dll.config
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\ThikanaClassified.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\ThikanaClassified.pdb
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\EntityFramework.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\EntityFramework.SqlServer.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\Microsoft.Web.Infrastructure.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\Newtonsoft.Json.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Net.Http.Formatting.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.Helpers.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.Http.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.Http.WebHost.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.Mvc.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.Razor.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.WebPages.Deployment.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.WebPages.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.WebPages.Razor.dll
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\EntityFramework.xml
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\EntityFramework.SqlServer.xml
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\Newtonsoft.Json.xml
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Net.Http.Formatting.xml
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.Helpers.xml
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.Http.xml
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.Http.WebHost.xml
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.Mvc.xml
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.Razor.xml
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.WebPages.xml
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.WebPages.Deployment.xml
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\bin\System.Web.WebPages.Razor.xml
+E:\My Work .net\Classified team\ThikanaClassified\ThikanaClassified\obj\Debug\ThikanaClassified.pdb
